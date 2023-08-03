@@ -1,0 +1,6 @@
+E:\2023git\CSharpStudy\etc\CopSMT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\2023git\CSharpStudy\etc\CopSMT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\2023git\CSharpStudy\etc\CopSMT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\2023git\CSharpStudy\etc\CopSMT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\2023git\CSharpStudy\etc\CopSMT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+E:\2023git\CSharpStudy\etc\CopSMT\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "A011_FormatSpecifier/1.0.0": {
+        "runtime": {
+          "A011_FormatSpecifier.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A011_FormatSpecifier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
