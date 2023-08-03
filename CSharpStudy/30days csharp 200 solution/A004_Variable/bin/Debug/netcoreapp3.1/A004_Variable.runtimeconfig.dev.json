@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\keroz\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\keroz\\.nuget\\packages",
+      "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
+    ]
+  }
+}
