@@ -1,0 +1,25 @@
+C:\Users\Saqlain Kazmi\source\repos\UiDesignDemo\UiDesignDemo\bin\Debug\UiDesignDemo.exe.config
+C:\Users\Saqlain Kazmi\source\repos\UiDesignDemo\UiDesignDemo\bin\Debug\UiDesignDemo.exe
+C:\Users\Saqlain Kazmi\source\repos\UiDesignDemo\UiDesignDemo\bin\Debug\UiDesignDemo.pdb
+C:\Users\Saqlain Kazmi\source\repos\UiDesignDemo\UiDesignDemo\obj\Debug\UiDesignDemo.Form1.resources
+C:\Users\Saqlain Kazmi\source\repos\UiDesignDemo\UiDesignDemo\obj\Debug\UiDesignDemo.Properties.Resources.resources
+C:\Users\Saqlain Kazmi\source\repos\UiDesignDemo\UiDesignDemo\obj\Debug\UiDesignDemo.csproj.GenerateResource.Cache
+C:\Users\Saqlain Kazmi\source\repos\UiDesignDemo\UiDesignDemo\obj\Debug\UiDesignDemo.csproj.CoreCompileInputs.cache
+C:\Users\Saqlain Kazmi\source\repos\UiDesignDemo\UiDesignDemo\obj\Debug\UiDesignDemo.exe
+C:\Users\Saqlain Kazmi\source\repos\UiDesignDemo\UiDesignDemo\obj\Debug\UiDesignDemo.pdb
+C:\Users\Saqlain Kazmi\source\repos\UiDesignDemo\UiDesignDemo\obj\Debug\UiDesignDemo.UserControls.FirstUC.resources
+C:\Users\Saqlain Kazmi\source\repos\UiDesignDemo\UiDesignDemo\obj\Debug\UiDesignDemo.UserControls.SecondUC.resources
+C:\Users\Saqlain Kazmi\source\repos\UiDesignDemo\UiDesignDemo\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\2023git\CSharpStudy\etc\CopSMT\UiDesignDemo\UiDesignDemo\bin\Debug\UiDesignDemo.exe.config
+E:\2023git\CSharpStudy\etc\CopSMT\UiDesignDemo\UiDesignDemo\bin\Debug\UiDesignDemo.exe
+E:\2023git\CSharpStudy\etc\CopSMT\UiDesignDemo\UiDesignDemo\bin\Debug\UiDesignDemo.pdb
+E:\2023git\CSharpStudy\etc\CopSMT\UiDesignDemo\UiDesignDemo\obj\Debug\UiDesignDemo.csproj.AssemblyReference.cache
+E:\2023git\CSharpStudy\etc\CopSMT\UiDesignDemo\UiDesignDemo\obj\Debug\UiDesignDemo.Form1.resources
+E:\2023git\CSharpStudy\etc\CopSMT\UiDesignDemo\UiDesignDemo\obj\Debug\UiDesignDemo.Properties.Resources.resources
+E:\2023git\CSharpStudy\etc\CopSMT\UiDesignDemo\UiDesignDemo\obj\Debug\UiDesignDemo.UserControls.FirstUC.resources
+E:\2023git\CSharpStudy\etc\CopSMT\UiDesignDemo\UiDesignDemo\obj\Debug\UiDesignDemo.UserControls.SecondUC.resources
+E:\2023git\CSharpStudy\etc\CopSMT\UiDesignDemo\UiDesignDemo\obj\Debug\UiDesignDemo.csproj.GenerateResource.cache
+E:\2023git\CSharpStudy\etc\CopSMT\UiDesignDemo\UiDesignDemo\obj\Debug\UiDesignDemo.csproj.CoreCompileInputs.cache
+E:\2023git\CSharpStudy\etc\CopSMT\UiDesignDemo\UiDesignDemo\obj\Debug\UiDesignDemo.csproj.CopyComplete
+E:\2023git\CSharpStudy\etc\CopSMT\UiDesignDemo\UiDesignDemo\obj\Debug\UiDesignDemo.exe
+E:\2023git\CSharpStudy\etc\CopSMT\UiDesignDemo\UiDesignDemo\obj\Debug\UiDesignDemo.pdb
