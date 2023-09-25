@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "2z4EsHBWrAuWqws1p3/088dQN4BnSZ9Ib/zGK4sd/Q1sN3FPvXaps4qLApnVi9KcQPIvpKauM2QiLjpwkclghg==",
+  "dgSpecHash": "mEuDQk6prUBS5cIYwUex139Sk2UxpD76QKBKCUR7E8LNqkJNSs5qXKcfXpFbCuH929salXnSXhZzwV3sXcfG7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ParkJiho\\Desktop\\c\\230713_ConsoleApp1_CsharpTutorial_by_Derek_Banas\\230713_ConsoleApp1_CsharpTutorial_by_Derek_Banas\\230713_ConsoleApp1_CsharpTutorial_by_Derek_Banas.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\2023git\\CSharpStudy\\230713_ConsoleApp1_CsharpTutorial_by_Derek_Banas\\230713_ConsoleApp1_CsharpTutorial_by_Derek_Banas\\230713_ConsoleApp1_CsharpTutorial_by_Derek_Banas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ParkJiho\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\ParkJiho\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\ParkJiho\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\ParkJiho\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

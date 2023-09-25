@@ -180,7 +180,7 @@ namespace ConsoleApplication3
         Cute:
             Console.WriteLine("Toddlers are cute"); //조금 자란 아기들은 귀엽다:)
 
-            // ---------- LOOPING ---------- 루프!!
+            // ---------- LOOPING ---------- 루프!!  --------- --------- --------- --------- ---------
             // continue executing statements as long as a condition is true
             // 루프는 조건이 참인 동안 계속해서 명령을 반복 시행하는 것.
 
@@ -191,7 +191,7 @@ namespace ConsoleApplication3
             while (ii < 10)
             {
                 // If i = 7 then skip the rest of the code and start with i = 8
-                if (ii == 7)
+                if (ii == 7) //다른 일을 하고 싶어. i는 8이 되고 while문 안으로 들어가서 다시 반복
                 {
                     ii++;
                     continue;

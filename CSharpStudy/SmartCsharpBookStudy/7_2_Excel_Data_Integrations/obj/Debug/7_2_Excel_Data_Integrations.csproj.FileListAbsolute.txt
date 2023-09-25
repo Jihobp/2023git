@@ -1,0 +1,11 @@
+E:\2023git\CSharpStudy\SmartCsharpBookStudy\7_2_Excel_Data_Integrations\obj\Debug\7_2_Excel_Data_Integrations.csproj.AssemblyReference.cache
+E:\2023git\CSharpStudy\SmartCsharpBookStudy\7_2_Excel_Data_Integrations\obj\Debug\7_2_Excel_Data_Integrations.csproj.ResolveComReference.cache
+E:\2023git\CSharpStudy\SmartCsharpBookStudy\7_2_Excel_Data_Integrations\obj\Debug\_7_2_Excel_Data_Integrations.Form1.resources
+E:\2023git\CSharpStudy\SmartCsharpBookStudy\7_2_Excel_Data_Integrations\obj\Debug\_7_2_Excel_Data_Integrations.Properties.Resources.resources
+E:\2023git\CSharpStudy\SmartCsharpBookStudy\7_2_Excel_Data_Integrations\obj\Debug\7_2_Excel_Data_Integrations.csproj.GenerateResource.cache
+E:\2023git\CSharpStudy\SmartCsharpBookStudy\7_2_Excel_Data_Integrations\obj\Debug\7_2_Excel_Data_Integrations.csproj.CoreCompileInputs.cache
+E:\2023git\CSharpStudy\SmartCsharpBookStudy\7_2_Excel_Data_Integrations\bin\Debug\7_2_Excel_Data_Integrations.exe.config
+E:\2023git\CSharpStudy\SmartCsharpBookStudy\7_2_Excel_Data_Integrations\bin\Debug\7_2_Excel_Data_Integrations.exe
+E:\2023git\CSharpStudy\SmartCsharpBookStudy\7_2_Excel_Data_Integrations\bin\Debug\7_2_Excel_Data_Integrations.pdb
+E:\2023git\CSharpStudy\SmartCsharpBookStudy\7_2_Excel_Data_Integrations\obj\Debug\7_2_Excel_Data_Integrations.exe
+E:\2023git\CSharpStudy\SmartCsharpBookStudy\7_2_Excel_Data_Integrations\obj\Debug\7_2_Excel_Data_Integrations.pdb

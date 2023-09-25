@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "A014_StringToNumber/1.0.0": {
+        "runtime": {
+          "A014_StringToNumber.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A014_StringToNumber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

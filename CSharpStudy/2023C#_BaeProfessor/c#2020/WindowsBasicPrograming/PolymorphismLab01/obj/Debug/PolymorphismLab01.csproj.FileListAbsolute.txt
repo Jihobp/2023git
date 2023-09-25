@@ -1,0 +1,10 @@
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#2020\WindowsBasicPrograming\PolymorphismLab01\bin\Debug\PolymorphismLab01.exe.config
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#2020\WindowsBasicPrograming\PolymorphismLab01\bin\Debug\PolymorphismLab01.exe
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#2020\WindowsBasicPrograming\PolymorphismLab01\bin\Debug\PolymorphismLab01.pdb
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#2020\WindowsBasicPrograming\PolymorphismLab01\obj\Debug\PolymorphismLab01.csproj.AssemblyReference.cache
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#2020\WindowsBasicPrograming\PolymorphismLab01\obj\Debug\PolymorphismLab01.Form1.resources
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#2020\WindowsBasicPrograming\PolymorphismLab01\obj\Debug\PolymorphismLab01.Properties.Resources.resources
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#2020\WindowsBasicPrograming\PolymorphismLab01\obj\Debug\PolymorphismLab01.csproj.GenerateResource.cache
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#2020\WindowsBasicPrograming\PolymorphismLab01\obj\Debug\PolymorphismLab01.csproj.CoreCompileInputs.cache
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#2020\WindowsBasicPrograming\PolymorphismLab01\obj\Debug\PolymorphismLab01.exe
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#2020\WindowsBasicPrograming\PolymorphismLab01\obj\Debug\PolymorphismLab01.pdb
