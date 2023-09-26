@@ -1,0 +1,13 @@
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.exe.config
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.exe
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.pdb
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csproj.AssemblyReference.cache
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form1.resources
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Properties.Resources.resources
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csproj.GenerateResource.cache
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csproj.CoreCompileInputs.cache
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.exe
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.pdb
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form_ContainerControls.resources
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form_PanelControls.resources
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form_Group.resources
