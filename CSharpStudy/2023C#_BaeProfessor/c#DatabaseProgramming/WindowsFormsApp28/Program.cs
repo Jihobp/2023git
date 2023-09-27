@@ -16,7 +16,7 @@ namespace WindowsFormsApp28
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form_Group());
+            Application.Run(new Table());
         }
     }
 }

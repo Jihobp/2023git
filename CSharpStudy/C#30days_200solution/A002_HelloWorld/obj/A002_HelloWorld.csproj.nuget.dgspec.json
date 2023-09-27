@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\2023git\\CSharpStudy\\30days csharp 200 solution\\A002_HelloWorld\\A002_HelloWorld.csproj": {}
+    "E:\\2023git\\CSharpStudy\\C#30days_200solution\\A002_HelloWorld\\A002_HelloWorld.csproj": {}
   },
   "projects": {
-    "E:\\2023git\\CSharpStudy\\30days csharp 200 solution\\A002_HelloWorld\\A002_HelloWorld.csproj": {
+    "E:\\2023git\\CSharpStudy\\C#30days_200solution\\A002_HelloWorld\\A002_HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\2023git\\CSharpStudy\\30days csharp 200 solution\\A002_HelloWorld\\A002_HelloWorld.csproj",
+        "projectUniqueName": "E:\\2023git\\CSharpStudy\\C#30days_200solution\\A002_HelloWorld\\A002_HelloWorld.csproj",
         "projectName": "A002_HelloWorld",
-        "projectPath": "E:\\2023git\\CSharpStudy\\30days csharp 200 solution\\A002_HelloWorld\\A002_HelloWorld.csproj",
+        "projectPath": "E:\\2023git\\CSharpStudy\\C#30days_200solution\\A002_HelloWorld\\A002_HelloWorld.csproj",
         "packagesPath": "C:\\Users\\keroz\\.nuget\\packages\\",
-        "outputPath": "E:\\2023git\\CSharpStudy\\30days csharp 200 solution\\A002_HelloWorld\\obj\\",
+        "outputPath": "E:\\2023git\\CSharpStudy\\C#30days_200solution\\A002_HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"

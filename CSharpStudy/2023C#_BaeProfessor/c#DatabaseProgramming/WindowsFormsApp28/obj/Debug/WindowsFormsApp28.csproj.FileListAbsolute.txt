@@ -11,3 +11,4 @@ E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\WindowsFormsApp
 E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form_ContainerControls.resources
 E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form_PanelControls.resources
 E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form_Group.resources
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Table.resources

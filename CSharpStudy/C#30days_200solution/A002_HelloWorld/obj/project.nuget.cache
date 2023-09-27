@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SOe+UgUwIgrkA9UYI9a6krADuLrcGRWLnsUYDvF3ApisQlTaq8O/3x/rOlthcadGCEpLnurKMzlcAmpcDOYDZQ==",
+  "dgSpecHash": "X4g7NN21qiiyoC39G4HXm9UUxAj5ErkdIWGgT+9n0iwGDyh607kM90aJT5IrgMRlfWNebHbrpOzCoKjcUeIijw==",
   "success": true,
-  "projectFilePath": "E:\\2023git\\CSharpStudy\\30days csharp 200 solution\\A002_HelloWorld\\A002_HelloWorld.csproj",
+  "projectFilePath": "E:\\2023git\\CSharpStudy\\C#30days_200solution\\A002_HelloWorld\\A002_HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

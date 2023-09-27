@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TvHvGCW/+E0D5Fb8jzMkMB45iXEuAS5dgqRm/ukXbof0X84pceHdiZOC2RXyEdX9i+EpeDcnIDGwCWYQnD8agA==",
+  "dgSpecHash": "m2+Xz0dGKfUlsUW0d7hSc7p60Y0YMgkFWdFUdd3SAhiv18Y3u6yAfRjoXgQgQCt/y5QHaJnSJ0Ni9YpGBnewzw==",
   "success": true,
-  "projectFilePath": "E:\\2023git\\CSharpStudy\\30days csharp 200 solution\\A004_Variable\\A004_Variable.csproj",
+  "projectFilePath": "E:\\2023git\\CSharpStudy\\C#30days_200solution\\A004_Variable\\A004_Variable.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

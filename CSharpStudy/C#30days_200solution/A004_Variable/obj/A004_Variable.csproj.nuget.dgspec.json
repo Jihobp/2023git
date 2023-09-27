@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\2023git\\CSharpStudy\\30days csharp 200 solution\\A004_Variable\\A004_Variable.csproj": {}
+    "E:\\2023git\\CSharpStudy\\C#30days_200solution\\A004_Variable\\A004_Variable.csproj": {}
   },
   "projects": {
-    "E:\\2023git\\CSharpStudy\\30days csharp 200 solution\\A004_Variable\\A004_Variable.csproj": {
+    "E:\\2023git\\CSharpStudy\\C#30days_200solution\\A004_Variable\\A004_Variable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\2023git\\CSharpStudy\\30days csharp 200 solution\\A004_Variable\\A004_Variable.csproj",
+        "projectUniqueName": "E:\\2023git\\CSharpStudy\\C#30days_200solution\\A004_Variable\\A004_Variable.csproj",
         "projectName": "A004_Variable",
-        "projectPath": "E:\\2023git\\CSharpStudy\\30days csharp 200 solution\\A004_Variable\\A004_Variable.csproj",
+        "projectPath": "E:\\2023git\\CSharpStudy\\C#30days_200solution\\A004_Variable\\A004_Variable.csproj",
         "packagesPath": "C:\\Users\\keroz\\.nuget\\packages\\",
-        "outputPath": "E:\\2023git\\CSharpStudy\\30days csharp 200 solution\\A004_Variable\\obj\\",
+        "outputPath": "E:\\2023git\\CSharpStudy\\C#30days_200solution\\A004_Variable\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
