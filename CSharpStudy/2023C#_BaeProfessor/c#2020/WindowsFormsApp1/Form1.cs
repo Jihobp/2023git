@@ -259,10 +259,29 @@ namespace WindowsFormsApp1 //일종의 폴더
             textBox3.Text = c.ToString();   //textBox3.Text 값을 할당한 후 화면에 나타나는 코딩         
         }
 
-
+        private void button11_Click(object sender, EventArgs e)
+        {
+            Top t = new Top();
+            t.a = 100;
+            t.b = 200;
+            int c1 = t.GetData();
+            MessageBox.Show(c1.ToString());
+        }
     } //class 클래스의 마지막 부호
 
+    public class Top
+    {
+        public int a;
+        public int b;
+        //--여기까지 변수로 구성되어진 클래스 : 8바이트짜리 메모리 지도
 
+
+        public int GetData()
+        {
+            return a + b;
+        }
+        //--변수에 함수도 추가되어진 클래스. 함수는 메모리 지도에 포함되지 않는다. 메로리 지도로 만든 메모리를 사용할 특권이 있다.
+    }
 
     //2.2.3 struct -> 클래스 마지막 부호 바깥에 선언해야함
     struct person   //20 byte의 크기, Person 구조체는 20 byte짜리 데이터 타입, 형태는 int+int+double+float

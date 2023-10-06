@@ -1,0 +1,116 @@
+select * from Patient
+
+-- 1. 데이터 등록
+-- insert into 테이블명(컬럼명1, 컬럼명2, ...컬럼명n) values (데이터1, ...데이터n
+
+insert into Patient_bbk()
+
+select * into Patient From Patient_bbk
+
+select * from Patient -- 데이터가 없다고 나옴. 이걸 실행하면 생김. 
+-- 테이블 우클릭 새로고침 하면 됨.
+
+insert into Patient(ChartNo, Name) values ('1', '홍길동') 
+insert into Patient(ChartNo, Name, IDNumber) values ('2', '홍길동', '0103030393939')  
+insert into Patient values()  --모든 열을 다 입력해야함.. --
+
+CREATE TABLE Patient (
+    ChartNo INT PRIMARY KEY,
+    Name NVARCHAR(255),
+    ZipCode NVARCHAR(10)
+);
+-- pk 수정
+ALTER TABLE Patient
+DROP CONSTRAINT PK_Patient; -- 기존 기본 키 제약 조건 삭제
+
+ALTER TABLE Patient
+ADD CONSTRAINT PK_Patient PRIMARY KEY (ChartNo); -- ChartNo 열을 새로운 기본 키로 설정
+
+
+기존 테이블에 기본 키 만들기
+다음 예제에서는 AdventureWorks 데이터베이스의 TransactionID 열에 기본 키를 만듭니다.
+
+
+ALTER TABLE Production.TransactionHistoryArchive
+   ADD CONSTRAINT PK_TransactionHistoryArchive_TransactionID PRIMARY KEY CLUSTERED (TransactionID);
+새 테이블에 기본 키 만들기
+다음 예제에서는 테이블을 만들고 AdventureWorks 데이터베이스의 TransactionID 열에 기본 키를 정의합니다.
+
+
+CREATE TABLE Production.TransactionHistoryArchive1
+   (
+      TransactionID int IDENTITY (1,1) NOT NULL
+      , CONSTRAINT PK_TransactionHistoryArchive1_TransactionID PRIMARY KEY CLUSTERED (TransactionID)
+   )
+;
+
+
+
+
+--
+
+
+
+
+alter proc QC_GetIQCList @pCorpId varchar(20), @pStartDate Datetime, @pEndDate Datetime, @pStatus varchar(20)
+as 
+	
+
+
+	select iqc.* , cm.MaterialName, cm.Size, cc.CustName, pm.PlacingDate, pd.Qty, cu.EmployeeName
+	from PurchaseIQC iqc
+	Left Join CmMaterial cm on cm.CorpId = iqc.CorpId and cm.MaterialCode = iqc.MaterialCode
+	Left Join PlacingMaster pm on pm.CorpId = iqc.CorpId and pm.MmOrderNo = iqc.StoNo
+	Left Join PlacingDetail pd on pd.CorpId = iqc.CorpId and pd.MmOrderNo =iqc.StoNo and pd.MmOrderSeq = iqc.StoSeq
+	left join CmCustomer cc on cc.CorpID = iqc.CorpId and cc.CustCode = iqc.CustCode
+	left join CodeUser cu on cu.CorpId = iqc.CorpId and cu.EmployeeId = iqc.RequestID
+	where iqc.CorpId = @pCorpId and iqc.RequestDate between @pStartDate and @pEndDate 
+	and	iqc.Status = @pStatus
+
+
+
+	--exec QC_GetIQCList '1000', '20230101', '20231231', '지시완료'
+	exec QC_GetIQCList '1000', '20230101', '20231231', '미지시'
+
+	--gcPreIQC.DataSource = db.GetDataView("수입검사미완료", query); --실행문
+	exec QC_GetIQCList '1000','2023-01-30','2023-10-14','미지시'
+update PurchaseIQC set RequestDate = '20231004', ExamDate ='20231005', Status='미지시', ExamQty =5, CustCode='C00001', RequestID='admin'
+
+sp_help PurchaseIQC 
+
+select * from PurchaseIQC
+
+select * from CmCustomer
+
+select * from CodeUser
+
+update CmCustomer set CorpId = '1000'
+
+
+select * from PlacingMaster
+
+select * from PlacingDetail where corpid = '1000' and MmOrderNo = 'MO2304250001'
+
+select * from PlacingMaster pm
+Left Join PlacingDetail pd on pd.CorpId = pm.CorpId and pd.MmOrderNo = pm.MmOrderNo
+where pm.MmOrderNo = 'MO2304250001'
+
+select * from PlacingDetail pd
+Left Join PlacingMaster pm on pd.CorpId = pm.CorpId and pd.MmOrderNo = pm.MmOrderNo
+where pm.MmOrderNo = 'MO2304250001' and pd.MmOrderSeq = 1
+
+----
+select * from 
+
+
+insert into DefectiveMaster (CorpId, AcceptNo, IQCNo, Fault_Sol) values ('1000', 1, 1, 'weird')
+insert into DefectiveMaster (ConfirmID) values ('사람')
+update DefectiveMaster set Fault_Sol='weird'
+update DefectiveMaster set ConfirmID='사람', ItemCode=10, SerialNo=20, FaultQty=11, ExamQty=11, Fault_Show='weeird'
+update DefectiveMaster set FaultCode=1
+select * from CmCateItem
+
+
+--PurchaseIQC -- WorkOrderIQC -- DefectiveMaster
+--alt f1
+

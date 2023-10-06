@@ -1,0 +1,10 @@
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\15.Training_PatientManagement\bin\Debug\15.Training_PatientManagement.exe.config
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\15.Training_PatientManagement\bin\Debug\15.Training_PatientManagement.exe
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\15.Training_PatientManagement\bin\Debug\15.Training_PatientManagement.pdb
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\15.Training_PatientManagement\obj\Debug\15.Training_PatientManagement.csproj.AssemblyReference.cache
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\15.Training_PatientManagement\obj\Debug\_15.Training_PatientManagement.Form1.resources
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\15.Training_PatientManagement\obj\Debug\_15.Training_PatientManagement.Properties.Resources.resources
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\15.Training_PatientManagement\obj\Debug\15.Training_PatientManagement.csproj.GenerateResource.cache
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\15.Training_PatientManagement\obj\Debug\15.Training_PatientManagement.csproj.CoreCompileInputs.cache
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\15.Training_PatientManagement\obj\Debug\15.Training_PatientManagement.exe
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\15.Training_PatientManagement\obj\Debug\15.Training_PatientManagement.pdb

@@ -1,0 +1,10 @@
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\10.ADO.NET\bin\Debug\10.ADO.NET.exe.config
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\10.ADO.NET\bin\Debug\10.ADO.NET.exe
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\10.ADO.NET\bin\Debug\10.ADO.NET.pdb
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\10.ADO.NET\obj\Debug\10.ADO.NET.csproj.AssemblyReference.cache
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\10.ADO.NET\obj\Debug\_10.ADO.NET.Form1.resources
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\10.ADO.NET\obj\Debug\_10.ADO.NET.Properties.Resources.resources
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\10.ADO.NET\obj\Debug\10.ADO.NET.csproj.GenerateResource.cache
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\10.ADO.NET\obj\Debug\10.ADO.NET.csproj.CoreCompileInputs.cache
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\10.ADO.NET\obj\Debug\10.ADO.NET.exe
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\10.ADO.NET\obj\Debug\10.ADO.NET.pdb

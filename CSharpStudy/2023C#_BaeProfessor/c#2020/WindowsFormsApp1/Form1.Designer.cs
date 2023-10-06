@@ -46,6 +46,7 @@ namespace WindowsFormsApp1
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.CalculateBtn = new System.Windows.Forms.Button();
+            this.button11 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -206,11 +207,22 @@ namespace WindowsFormsApp1
             this.CalculateBtn.UseVisualStyleBackColor = true;
             this.CalculateBtn.Click += new System.EventHandler(this.CalculateBtn_Click);
             // 
+            // button11
+            // 
+            this.button11.Location = new System.Drawing.Point(51, 364);
+            this.button11.Name = "button11";
+            this.button11.Size = new System.Drawing.Size(75, 23);
+            this.button11.TabIndex = 15;
+            this.button11.Text = "button11";
+            this.button11.UseVisualStyleBackColor = true;
+            this.button11.Click += new System.EventHandler(this.button11_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.button11);
             this.Controls.Add(this.CalculateBtn);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.textBox3);
@@ -254,6 +266,7 @@ namespace WindowsFormsApp1
         private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button CalculateBtn;
+        private System.Windows.Forms.Button button11;
     }
 }
 
