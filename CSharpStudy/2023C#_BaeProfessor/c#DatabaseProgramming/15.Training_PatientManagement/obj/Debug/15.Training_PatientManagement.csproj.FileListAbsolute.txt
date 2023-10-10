@@ -8,3 +8,4 @@ E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\15.Training_Pat
 E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\15.Training_PatientManagement\obj\Debug\15.Training_PatientManagement.csproj.CoreCompileInputs.cache
 E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\15.Training_PatientManagement\obj\Debug\15.Training_PatientManagement.exe
 E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\15.Training_PatientManagement\obj\Debug\15.Training_PatientManagement.pdb
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\15.Training_PatientManagement\obj\Debug\_15.Training_PatientManagement.Form2.resources

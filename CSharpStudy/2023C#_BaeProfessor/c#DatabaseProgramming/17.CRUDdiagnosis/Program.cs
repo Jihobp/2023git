@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace _15.Training_PatientManagement
+namespace _17.CRUDdiagnosis
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace _15.Training_PatientManagement
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form2());
+            Application.Run(new Form1());
         }
     }
 }

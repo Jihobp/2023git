@@ -1,0 +1,10 @@
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\17.CRUDdiagnosis\bin\Debug\17.CRUDdiagnosis.exe.config
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\17.CRUDdiagnosis\bin\Debug\17.CRUDdiagnosis.exe
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\17.CRUDdiagnosis\bin\Debug\17.CRUDdiagnosis.pdb
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\17.CRUDdiagnosis\obj\Debug\17.CRUDdiagnosis.csproj.AssemblyReference.cache
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\17.CRUDdiagnosis\obj\Debug\_17.CRUDdiagnosis.Form1.resources
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\17.CRUDdiagnosis\obj\Debug\_17.CRUDdiagnosis.Properties.Resources.resources
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\17.CRUDdiagnosis\obj\Debug\17.CRUDdiagnosis.csproj.GenerateResource.cache
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\17.CRUDdiagnosis\obj\Debug\17.CRUDdiagnosis.csproj.CoreCompileInputs.cache
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\17.CRUDdiagnosis\obj\Debug\17.CRUDdiagnosis.exe
+E:\2023git\CSharpStudy\2023C#_BaeProfessor\c#DatabaseProgramming\17.CRUDdiagnosis\obj\Debug\17.CRUDdiagnosis.pdb

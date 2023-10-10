@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E31121C0-8E6C-4BB0-AF45-5F32EB6ADA24}</ProjectGuid>
+    <ProjectGuid>{2D310BC3-8D80-49A8-AB4A-2298FCC0E950}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>_15.Training_PatientManagement</RootNamespace>
-    <AssemblyName>15.Training_PatientManagement</AssemblyName>
+    <RootNamespace>_17.CRUDdiagnosis</RootNamespace>
+    <AssemblyName>17.CRUDdiagnosis</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
